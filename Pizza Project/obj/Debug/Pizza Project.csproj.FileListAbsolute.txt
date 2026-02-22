@@ -1,0 +1,20 @@
+D:\learn_c++\C# lvl 1\Pizza Project\bin\Debug\Pizza Project.exe.config
+D:\learn_c++\C# lvl 1\Pizza Project\bin\Debug\Pizza Project.exe
+D:\learn_c++\C# lvl 1\Pizza Project\bin\Debug\Pizza Project.pdb
+D:\learn_c++\C# lvl 1\Pizza Project\obj\Debug\Pizza Project.csproj.AssemblyReference.cache
+D:\learn_c++\C# lvl 1\Pizza Project\obj\Debug\Pizza_Project.Form1.resources
+D:\learn_c++\C# lvl 1\Pizza Project\obj\Debug\Pizza_Project.Properties.Resources.resources
+D:\learn_c++\C# lvl 1\Pizza Project\obj\Debug\Pizza Project.csproj.GenerateResource.cache
+D:\learn_c++\C# lvl 1\Pizza Project\obj\Debug\Pizza Project.csproj.CoreCompileInputs.cache
+D:\learn_c++\C# lvl 1\Pizza Project\obj\Debug\Pizza Project.exe
+D:\learn_c++\C# lvl 1\Pizza Project\obj\Debug\Pizza Project.pdb
+D:\learn_c++\learn_c++\C# lvl 1\Pizza Project\bin\Debug\Pizza Project.exe.config
+D:\learn_c++\learn_c++\C# lvl 1\Pizza Project\bin\Debug\Pizza Project.exe
+D:\learn_c++\learn_c++\C# lvl 1\Pizza Project\bin\Debug\Pizza Project.pdb
+D:\learn_c++\learn_c++\C# lvl 1\Pizza Project\obj\Debug\Pizza Project.csproj.AssemblyReference.cache
+D:\learn_c++\learn_c++\C# lvl 1\Pizza Project\obj\Debug\Pizza_Project.Form1.resources
+D:\learn_c++\learn_c++\C# lvl 1\Pizza Project\obj\Debug\Pizza_Project.Properties.Resources.resources
+D:\learn_c++\learn_c++\C# lvl 1\Pizza Project\obj\Debug\Pizza Project.csproj.GenerateResource.cache
+D:\learn_c++\learn_c++\C# lvl 1\Pizza Project\obj\Debug\Pizza Project.csproj.CoreCompileInputs.cache
+D:\learn_c++\learn_c++\C# lvl 1\Pizza Project\obj\Debug\Pizza Project.exe
+D:\learn_c++\learn_c++\C# lvl 1\Pizza Project\obj\Debug\Pizza Project.pdb
